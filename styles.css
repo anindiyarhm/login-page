@@ -194,7 +194,6 @@ button span:nth-child(4) {
     left: 50%;
     width: 100px;
     height: 100px;
-    background: url('https://i.imgur.com/UzjDLlH.png') no-repeat center;
     background-size: cover;
     animation: float 3s ease-in-out infinite;
     opacity: 0.8;
